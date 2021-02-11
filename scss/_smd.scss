@@ -1,0 +1,12 @@
+// Social Media Dashboard Class
+.smd {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  max-width: 70rem;
+  min-height: 100vh;
+  padding: 2vw;
+  margin: auto;
+}
